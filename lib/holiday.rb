@@ -66,6 +66,8 @@ def all_holidays_with_bbq(holiday_hash)
   # INCLUDES the string "BBQ"
   
   new_array = []
+  
+  holiday_hash.each do 
 
 end
 
